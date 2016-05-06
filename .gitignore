@@ -1,0 +1,9 @@
+# ignore config
+composer.lock
+composer.json~
+composer.json
+vendor/autoload.php
+vendor/tzfrs/
+vendor/composer/
+error_log
+browser.json
